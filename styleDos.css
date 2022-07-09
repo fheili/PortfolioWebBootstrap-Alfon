@@ -219,20 +219,6 @@ ion-icon:focus {
         max-width: 160px !important;
         max-height: 140px !important;
     }
-
-    .edit-buttons{
-        margin-right: 5px;
-    }
-    
-    .list-pencil-trash{
-        /* align-items: center; */
-        width: 80%
-    }
-
-    .list-pencil-trash{
-        /* align-items: center; */
-        width: 80%
-    }
 }
 
 @media (min-width: 768px) { ... }
